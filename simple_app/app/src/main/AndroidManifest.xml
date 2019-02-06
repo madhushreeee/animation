@@ -21,7 +21,7 @@
 
         </activity>
 
-        <activity android:name=".Random">
+        <activity android:name=".MoveRandom">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -29,7 +29,7 @@
             </intent-filter>
         </activity>
 
-<activity android:name=".MoveToTouch">
+<activity android:name=".MoveToTouchPosition">
 
 </activity>
 
