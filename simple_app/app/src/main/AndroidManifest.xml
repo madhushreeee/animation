@@ -10,12 +10,29 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
+
+        </activity>
+
+        <activity android:name=".MoveUp">
+
+        </activity>
+
+        <activity android:name=".Animate">
+
+        </activity>
+
+        <activity android:name=".Random">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+<activity android:name=".MoveToTouch">
+
+</activity>
+
     </application>
 
 </manifest>

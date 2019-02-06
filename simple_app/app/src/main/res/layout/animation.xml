@@ -10,9 +10,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="50dp"
+        android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        app:srcCompat="@drawable/picture" />
+        app:srcCompat="@drawable/dot" />
 </RelativeLayout>
+
